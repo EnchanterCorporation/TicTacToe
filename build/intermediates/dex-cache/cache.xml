@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd38a60ce97053d06ba265eeeba5570e13ec9560">
+        <dex dex="/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_464f90623bfafbe2ab1eaca31434838108dc411d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_169fe05d222fe528eb2375b5439bf98f81942af4/classes.dex" />
+    </item>
+
+</items>

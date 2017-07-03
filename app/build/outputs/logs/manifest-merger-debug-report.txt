@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:4:1-62
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:4:18-60
+application
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:5:5-42:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kusuma20/.android/build-cache/64fce2a7f0f31fe144df08fb0d634272fc301637/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/f5330b91c7ff11d117927d067e83446c0ff555a5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/17b7bcb1d6851cc052161deca43c3cf0f08fa341/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/kusuma20/.android/build-cache/7ef0af5e9308a12ac6f6a5a2abff674592b09648/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/kusuma20/.android/build-cache/886461c104e4ae1a7063f48a88c393ddf4effe31/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kusuma20/.android/build-cache/76d2eb718f50289647498c484dd5c8551fd3a211/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kusuma20/.android/build-cache/33352086a4a28261c6b3dbb18920bb1f84edd716/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kusuma20/.android/build-cache/b6f4b808271665c37c4f679162cf9875b8b48c76/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kusuma20/.android/build-cache/3e7194336da2a5b52c120cf05295c4c84d6d9e7c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/kusuma20/.android/build-cache/a381ae91e06e253dd0131d76bb2bcd944aa47a85/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.enchcorp.kusuma20.tictactoe.MainActivity
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:12:5-22:16
+	android:screenOrientation
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:15:9-45
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:14:9-41
+	android:theme
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:16:9-52
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:13:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:17:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:18:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.enchcorp.kusuma20.tictactoe.Win
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:23:5-27:55
+	android:screenOrientation
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:26:9-45
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:25:9-51
+	android:theme
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:27:9-52
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:24:9-28
+activity#com.enchcorp.kusuma20.tictactoe.DrawGame
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:28:5-32:55
+	android:screenOrientation
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:31:9-45
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:30:9-57
+	android:theme
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:32:9-52
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:29:9-33
+activity#com.enchcorp.kusuma20.tictactoe.Game
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:33:5-36:32
+	android:screenOrientation
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:35:9-45
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:36:9-29
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:34:9-29
+activity#com.enchcorp.kusuma20.tictactoe.About
+ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:37:5-41:64
+	android:screenOrientation
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:40:9-45
+	android:label
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:39:9-53
+	android:theme
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:41:9-52
+	android:name
+		ADDED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml:38:9-30
+uses-sdk
+INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/kusuma20/.android/build-cache/64fce2a7f0f31fe144df08fb0d634272fc301637/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/f5330b91c7ff11d117927d067e83446c0ff555a5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/17b7bcb1d6851cc052161deca43c3cf0f08fa341/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/kusuma20/.android/build-cache/20d4181b136d22d9027769ee9072cf23e189ea6e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/kusuma20/.android/build-cache/7ef0af5e9308a12ac6f6a5a2abff674592b09648/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/kusuma20/.android/build-cache/886461c104e4ae1a7063f48a88c393ddf4effe31/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kusuma20/.android/build-cache/76d2eb718f50289647498c484dd5c8551fd3a211/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kusuma20/.android/build-cache/33352086a4a28261c6b3dbb18920bb1f84edd716/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kusuma20/.android/build-cache/b6f4b808271665c37c4f679162cf9875b8b48c76/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kusuma20/.android/build-cache/3e7194336da2a5b52c120cf05295c4c84d6d9e7c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/kusuma20/.android/build-cache/a381ae91e06e253dd0131d76bb2bcd944aa47a85/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kusuma20/Downloads/TicTacToe/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/f5330b91c7ff11d117927d067e83446c0ff555a5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kusuma20/.android/build-cache/17b7bcb1d6851cc052161deca43c3cf0f08fa341/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/kusuma20/.android/build-cache/20d4181b136d22d9027769ee9072cf23e189ea6e/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/kusuma20/.android/build-cache/7ef0af5e9308a12ac6f6a5a2abff674592b09648/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/kusuma20/.android/build-cache/886461c104e4ae1a7063f48a88c393ddf4effe31/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kusuma20/.android/build-cache/76d2eb718f50289647498c484dd5c8551fd3a211/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kusuma20/.android/build-cache/33352086a4a28261c6b3dbb18920bb1f84edd716/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kusuma20/.android/build-cache/b6f4b808271665c37c4f679162cf9875b8b48c76/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kusuma20/.android/build-cache/3e7194336da2a5b52c120cf05295c4c84d6d9e7c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/kusuma20/.android/build-cache/a381ae91e06e253dd0131d76bb2bcd944aa47a85/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/AndroidManifest.xml:26:9-47

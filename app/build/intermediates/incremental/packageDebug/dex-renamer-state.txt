@@ -1,0 +1,7 @@
+#Mon Jul 03 16:15:28 IST 2017
+base.0=/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_464f90623bfafbe2ab1eaca31434838108dc411d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_169fe05d222fe528eb2375b5439bf98f81942af4/classes.dex
+base.1=/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_169fe05d222fe528eb2375b5439bf98f81942af4
+file.0=/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_464f90623bfafbe2ab1eaca31434838108dc411d/classes.dex

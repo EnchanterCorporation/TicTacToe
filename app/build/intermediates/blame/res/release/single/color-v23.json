@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_default.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/kusuma20/.android/build-cache/daaa942b93ae6d3d434f1e0ae109901fb5803907/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/kusuma20/Downloads/TicTacToe/app/build/intermediates/res/merged/release/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kusuma20/.android/build-cache/8be6ead28642039470df12291f054611b142a86a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]
